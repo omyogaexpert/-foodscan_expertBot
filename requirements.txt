@@ -1,1 +1,4 @@
-requirements.txt
+pyTelegramBotAPI
+google-genai
+pillow
+matplotlib
